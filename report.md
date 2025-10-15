@@ -1,7 +1,6 @@
 # CMPT 459 Assignment 1 Report
 ## Decision Tree Implementation and Analysis
 
-**Student ID:** [Your Student ID]  
 **Date:** October 7, 2025
 
 ---
